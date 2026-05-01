@@ -38,13 +38,10 @@ Concepts Used (Programming Principles I)
 * File input and output
 
 Program Structure
-
-* **Main.java** → Controls program flow and menu
-* **Student.java** → Stores student data and grade logic
-* **Gradebook.java** → Manages list of students
-* **FileManager.java** → Handles file saving and loading
-
-
+* Main.java → Controls program flow and menu
+* Student.java → Stores student data and grade logic
+* Gradebook.java → Manages list of students
+* FileManager.java → Handles file saving and loading
 
 Challenges & Improvements
 
