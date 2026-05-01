@@ -52,10 +52,7 @@ If more time were available, future improvements would include:
 * More advanced reporting features
 
 Author
-
 Jahmari Bennett
-
-
 
 Course
 
