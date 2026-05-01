@@ -55,5 +55,4 @@ Author
 Jahmari Bennett
 
 Course
-
 Programming Principles I – Honors Project
