@@ -15,7 +15,6 @@ How to Run the Program
    java Main
 
 Features
-
 * Add new students
 * Record multiple grades per student
 * Automatically calculate averages
@@ -26,8 +25,6 @@ Features
 * Input validation to prevent errors
 * Sort students by average (highest to lowest)
 * Display highest and lowest grades
-
-
 
 Concepts Used (Programming Principles I)
 
