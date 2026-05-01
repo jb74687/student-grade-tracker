@@ -27,7 +27,6 @@ Features
 * Display highest and lowest grades
 
 Concepts Used (Programming Principles I)
-
 * Variables and data types
 * Conditional statements (if/else)
 * Loops (for, while)
@@ -37,8 +36,6 @@ Concepts Used (Programming Principles I)
 * Object-Oriented Programming (classes, objects, encapsulation)
 * Exception handling (try/catch)
 * File input and output
-
-
 
 Program Structure
 
