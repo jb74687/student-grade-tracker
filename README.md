@@ -1,12 +1,9 @@
 Student Grade Tracker Pro
 
 Description
-
 Student Grade Tracker Pro is a Java console application that allows users to manage student records and grades efficiently. The program supports adding students, recording grades, calculating averages, assigning letter grades, and saving/loading data from a file.
 
 This project demonstrates core programming concepts from Programming Principles I, including object-oriented programming, data structures, file handling, and exception handling.
-
-
 
 How to Run the Program
 
