@@ -6,7 +6,6 @@ Student Grade Tracker Pro is a Java console application that allows users to man
 This project demonstrates core programming concepts from Programming Principles I, including object-oriented programming, data structures, file handling, and exception handling.
 
 How to Run the Program
-
 1. Make sure Java is installed on your computer
 2. Download or clone this repository
 3. Open the project in your IDE (or terminal)
@@ -14,8 +13,6 @@ How to Run the Program
    javac Main.java
 5. Run:
    java Main
-
-
 
 Features
 
