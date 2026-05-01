@@ -44,16 +44,12 @@ Program Structure
 * FileManager.java → Handles file saving and loading
 
 Challenges & Improvements
-
 One challenge was organizing the program into multiple classes while keeping responsibilities clear. Another was handling file input and preventing crashes when data was missing or incorrect.
 
 If more time were available, future improvements would include:
-
 * A graphical user interface (GUI)
 * Data visualization (charts/graphs)
 * More advanced reporting features
-
-
 
 Author
 
